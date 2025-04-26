@@ -1,4 +1,4 @@
-# Fair Score - Data Drive Crediut Risk Predictions
+# Fair Score - Data Drive Credit Risk Predictions
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Gradient%20Boosting-brightgreen)
